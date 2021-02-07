@@ -1,0 +1,9 @@
+body
+{
+    background-color: #f5d4f5;
+}
+
+h2#regHeadingId
+{
+    border:solid 3px yellow;
+}
